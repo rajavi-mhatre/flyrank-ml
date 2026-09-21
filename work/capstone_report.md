@@ -1,9 +1,9 @@
 # Capstone Report — <your lane>
 
-- **Author:**
-- **Lane:**
-- **Repo:**
-- **Date:**
+- **Author:** Rajavi Mhatre
+- **Lane:** Refresh/Content Opportunity Scoring
+- **Repo:** flyrank-ml
+- **Date:** 21/09/2026
 
 > Copy this file to `work/capstone_report.md` and fill it in as you build. The eight
 > sections mirror the Pass / Needs-Work rubric axes, so nothing here is optional.
@@ -13,6 +13,13 @@
 What decision does this support? Name the unit of analysis (page, client, day…), the output
 (score, rank, cluster, report), the action a human takes from it, and the cost of a wrong
 call. Why does data/ML help here at all?
+
+Ans. Can search and content-performance signals help identify pages that should be prioritized for content-refresh review?
+Unit of analysis: Pages
+Decision: Should X page be flagged for review?
+Output: Ranked review list
+Human Action: Review flagged pages
+Cost of inaccurate flagging: Time spent on pages that didn't really require any flagging. 
 
 ## 2. Data safety
 
